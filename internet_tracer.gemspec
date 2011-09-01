@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{Get notification when your internet is back!}
   s.description = %q{Notifies you when your DD-WRT router resores the internet connection.}
 
-  s.rubyforge_project = "internet_tracer"
+  #s.rubyforge_project = "internet_tracer"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
